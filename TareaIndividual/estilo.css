@@ -5,7 +5,7 @@ body, html {
 }
 
 body {
-    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.7)),url("img/Img1.png");
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.7)),url("https://www.zdnet.com/a/img/resize/fcd2a4c988083c46b061b512e611ed567301c23b/2021/07/29/5c101d06-b7de-4f40-8110-00b38582c8ad/product-130298-product-shots1.jpg?auto=webp&fit=crop&height=675&width=1200");
     background-size: cover;
     background-position: center;
     color: #fff;
